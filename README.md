@@ -15,6 +15,8 @@ Creating a Check List
 # To Do List
 - [x] <del> Create a To Do List </del>
 - [ ] Add more items from the paper
-
+- [ ] complete the learning.HTML repository
+- [ ] find A Image
+- [ ] pass
 
 ---
