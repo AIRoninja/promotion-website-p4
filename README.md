@@ -18,5 +18,5 @@ Creating a Check List
 - [ ] complete the learning.HTML repository
 - [ ] find A Image
 - [ ] pass
-
+- [ ] don't fail
 ---
